@@ -1,0 +1,15 @@
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Tarea01\inventario\bin\Debug\net6.0\inventario.exe
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Tarea01\inventario\bin\Debug\net6.0\inventario.deps.json
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Tarea01\inventario\bin\Debug\net6.0\inventario.runtimeconfig.json
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Tarea01\inventario\bin\Debug\net6.0\inventario.dll
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Tarea01\inventario\bin\Debug\net6.0\inventario.pdb
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Tarea01\inventario\obj\Debug\net6.0\inventario.csproj.AssemblyReference.cache
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Tarea01\inventario\obj\Debug\net6.0\inventario.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Tarea01\inventario\obj\Debug\net6.0\inventario.AssemblyInfoInputs.cache
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Tarea01\inventario\obj\Debug\net6.0\inventario.AssemblyInfo.cs
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Tarea01\inventario\obj\Debug\net6.0\inventario.csproj.CoreCompileInputs.cache
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Tarea01\inventario\obj\Debug\net6.0\inventario.dll
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Tarea01\inventario\obj\Debug\net6.0\refint\inventario.dll
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Tarea01\inventario\obj\Debug\net6.0\inventario.pdb
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Tarea01\inventario\obj\Debug\net6.0\inventario.genruntimeconfig.cache
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Tarea01\inventario\obj\Debug\net6.0\ref\inventario.dll
