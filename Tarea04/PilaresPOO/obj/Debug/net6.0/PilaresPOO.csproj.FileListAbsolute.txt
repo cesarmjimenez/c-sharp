@@ -1,0 +1,15 @@
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Tarea04\PilaresPOO\obj\Debug\net6.0\PilaresPOO.csproj.AssemblyReference.cache
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Tarea04\PilaresPOO\obj\Debug\net6.0\PilaresPOO.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Tarea04\PilaresPOO\obj\Debug\net6.0\PilaresPOO.AssemblyInfoInputs.cache
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Tarea04\PilaresPOO\obj\Debug\net6.0\PilaresPOO.AssemblyInfo.cs
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Tarea04\PilaresPOO\obj\Debug\net6.0\PilaresPOO.csproj.CoreCompileInputs.cache
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Tarea04\PilaresPOO\bin\Debug\net6.0\PilaresPOO.exe
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Tarea04\PilaresPOO\bin\Debug\net6.0\PilaresPOO.deps.json
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Tarea04\PilaresPOO\bin\Debug\net6.0\PilaresPOO.runtimeconfig.json
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Tarea04\PilaresPOO\bin\Debug\net6.0\PilaresPOO.dll
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Tarea04\PilaresPOO\bin\Debug\net6.0\PilaresPOO.pdb
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Tarea04\PilaresPOO\obj\Debug\net6.0\PilaresPOO.dll
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Tarea04\PilaresPOO\obj\Debug\net6.0\refint\PilaresPOO.dll
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Tarea04\PilaresPOO\obj\Debug\net6.0\PilaresPOO.pdb
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Tarea04\PilaresPOO\obj\Debug\net6.0\PilaresPOO.genruntimeconfig.cache
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Tarea04\PilaresPOO\obj\Debug\net6.0\ref\PilaresPOO.dll
