@@ -1,0 +1,15 @@
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Proyecto\SistemaDelivery\obj\Debug\net6.0\SistemaDelivery.csproj.AssemblyReference.cache
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Proyecto\SistemaDelivery\obj\Debug\net6.0\SistemaDelivery.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Proyecto\SistemaDelivery\obj\Debug\net6.0\SistemaDelivery.AssemblyInfoInputs.cache
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Proyecto\SistemaDelivery\obj\Debug\net6.0\SistemaDelivery.AssemblyInfo.cs
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Proyecto\SistemaDelivery\obj\Debug\net6.0\SistemaDelivery.csproj.CoreCompileInputs.cache
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Proyecto\SistemaDelivery\bin\Debug\net6.0\SistemaDelivery.exe
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Proyecto\SistemaDelivery\bin\Debug\net6.0\SistemaDelivery.deps.json
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Proyecto\SistemaDelivery\bin\Debug\net6.0\SistemaDelivery.runtimeconfig.json
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Proyecto\SistemaDelivery\bin\Debug\net6.0\SistemaDelivery.dll
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Proyecto\SistemaDelivery\bin\Debug\net6.0\SistemaDelivery.pdb
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Proyecto\SistemaDelivery\obj\Debug\net6.0\SistemaDelivery.dll
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Proyecto\SistemaDelivery\obj\Debug\net6.0\refint\SistemaDelivery.dll
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Proyecto\SistemaDelivery\obj\Debug\net6.0\SistemaDelivery.pdb
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Proyecto\SistemaDelivery\obj\Debug\net6.0\SistemaDelivery.genruntimeconfig.cache
+E:\Mis cosas\Universidad\2022 II PAC\Lenguaje de Programacion 2\Programas C#\Proyecto\SistemaDelivery\obj\Debug\net6.0\ref\SistemaDelivery.dll
